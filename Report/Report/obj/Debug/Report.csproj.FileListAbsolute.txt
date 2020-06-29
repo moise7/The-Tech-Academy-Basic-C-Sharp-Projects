@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\obj\Debug\Report.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\bin\Debug\Report.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\bin\Debug\Report.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\bin\Debug\Report.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\obj\Debug\Report.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Report\Report\obj\Debug\Report.pdb
