@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
