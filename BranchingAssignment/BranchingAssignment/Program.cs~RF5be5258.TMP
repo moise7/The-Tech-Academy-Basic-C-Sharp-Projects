@@ -15,7 +15,8 @@ namespace BranchingAssignment
             Console.ReadLine();
             Console.WriteLine("Please enter the package weight:");
             Console.ReadLine();
-            int Weight = 50;
+            int Weight = Convert.ToInt32(Console.ReadLine());
+           
 
             if (Weight > 50)
             {
