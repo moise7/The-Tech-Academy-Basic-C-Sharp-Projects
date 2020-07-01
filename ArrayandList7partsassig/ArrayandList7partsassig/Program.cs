@@ -18,7 +18,7 @@ using System.Collections.Generic;
             Console.ReadLine();
 
             //part 2
-        int count = 0;
+            int count = 0;
             while (true)
             {
                 Console.WriteLine("count = {0}.", count);
@@ -28,8 +28,8 @@ using System.Collections.Generic;
                     break;
                 }
             }
-           // part 3
-        int count = 0;
+            // part 3
+            int count = 0;
             while (true)
             {
                 Console.WriteLine("count = {0}.", count);
@@ -43,7 +43,7 @@ using System.Collections.Generic;
             }
             //part 4
 
-        string[] names = { "Jeme", "Moise", "Emily" };
+            string[] names = { "Jeme", "Moise", "Emily" };
             for (int m = 0; m < names.Length; m++)
             {
                 if (names[m] == "Moise")
@@ -55,7 +55,7 @@ using System.Collections.Generic;
             Console.ReadLine();
 
             //part 5
-        string[] names = { "Jeme", "Moise", "Emily" };
+            string[] names = { "Jeme", "Moise", "Emily" };
             for (int m = 0; m <= names.Length; m++)
             {
                 if (names[m] == "Moise")
@@ -67,37 +67,59 @@ using System.Collections.Generic;
             Console.ReadLine();
 
             //part6
-        List<string> notebook = new List<string>() { "doctor appointment", "family visit", "sister birthday" };
-        Console.WriteLine("What do you want to know in your notebook? ");
-        string note = Console.ReadLine();
+            List<string> notebook = new List<string>() { "doctor appointment", "family visit", "sister birthday" };
+            Console.WriteLine("What do you want to know in your notebook? ");
+            string note = Console.ReadLine();
 
-        Console.WriteLine("You have  " + note);
-        if (note == notebook)
-        {
-            Console.WriteLine("Anything else");
+            Console.WriteLine("You have  " + note);
+            for (int i = 0; i < notebook.Count; i++)
+            {
+                if (notebook[i] == note)
+                {
+                    Console.WriteLine("Anything else");
+                    Console.ReadLine();
+                    break;
 
-        }
-        else
-        {
-            Console.WriteLine("Something went wrong!");
-            Console.ReadLine();
-
-                //part7
+                }
+                else
+                {
+                    Console.WriteLine("Something went wrong!");
 
 
-                //part8
+                    //part7
+
+
+                   // part8 add to program
 
 
                 //part9
+                List<string> name = new List<string>() { "Moise", "krisitn", "Moise" };
+                    Console.WriteLine("Select a name: ");
+                    string names = Console.ReadLine();
+                    Console.WriteLine("You selected  " + names);
+                    for (int i = 0; i < name.Count; i++)
+                    {
+                        if (name[i] == names)
+                        {
+                            Console.WriteLine("Anything else");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            break;
+                        }
+                        Console.ReadLine();
+                    }
 
-                //part10
+                    part10
 
-                //part 11
+                    part 11
+                }
+
+            }
+
         }
-        
-
-
     }
-}
-    
+
+
 
