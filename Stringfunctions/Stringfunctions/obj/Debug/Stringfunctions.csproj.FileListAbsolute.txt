@@ -1,0 +1,6 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\bin\Debug\Stringfunctions.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\bin\Debug\Stringfunctions.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\bin\Debug\Stringfunctions.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\obj\Debug\Stringfunctions.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\obj\Debug\Stringfunctions.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Stringfunctions\Stringfunctions\obj\Debug\Stringfunctions.pdb
