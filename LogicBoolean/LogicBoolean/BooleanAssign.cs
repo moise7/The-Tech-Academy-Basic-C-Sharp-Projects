@@ -28,7 +28,7 @@ namespace LogicBoolean
             Console.WriteLine("Have you ever had a DUI?");
             Console.ReadLine();
             bool condition = false;
-            if (condition = true)
+            if (condition == true)
             {
                 Console.WriteLine("Process....\n");
 
@@ -42,10 +42,12 @@ namespace LogicBoolean
             int DUI;
             int speedingTickets = 0;
 
-            Console.WriteLine("Have you ever had a DUI?");
+            Console.WriteLine("Have you ever had a DUI? Please enter true or false");
+
             DUI = Convert.ToInt32(Console.ReadLine());
             int speedingTickects = Convert.ToInt32(Console.ReadLine());
-            if (DUI == false && age < 15 && speedingTickects < 3)
+            bool DUIs = Convert.ToBoolean(Console.ReadLine());
+            if (DUIs = false && age < 15 && speedingTickects < 3)
             {
                 Console.WriteLine("You Qualified. \n");
             }
