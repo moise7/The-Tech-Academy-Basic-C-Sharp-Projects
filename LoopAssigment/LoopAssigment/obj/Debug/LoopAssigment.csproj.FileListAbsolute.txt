@@ -1,0 +1,6 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\bin\Debug\LoopAssigment.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\bin\Debug\LoopAssigment.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\bin\Debug\LoopAssigment.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\obj\Debug\LoopAssigment.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\obj\Debug\LoopAssigment.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\LoopAssigment\LoopAssigment\obj\Debug\LoopAssigment.pdb
