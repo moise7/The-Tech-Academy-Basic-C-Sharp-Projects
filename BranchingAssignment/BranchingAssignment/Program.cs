@@ -15,8 +15,8 @@ namespace BranchingAssignment
             Console.ReadLine();
             Console.WriteLine("Please enter the package weight:");
             Console.ReadLine();
-            int packageWeight = 50;
-            if (packageWeight > 50)
+            int Weight = 50;
+            if (Weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
                
@@ -24,24 +24,31 @@ namespace BranchingAssignment
             }
             else
             {
-                Console.WriteLine("Proceed!!!");
+                Console.WriteLine("Please enter the package width: ");
+                int width = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the package height: ");
+                int height = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the package length: ");
+                int length = Convert.ToInt32(Console.ReadLine());
             }
             Console.ReadLine();
            
             
-            int length;
-            Console.WriteLine("Please enter the package width: ");
+            //int length;
+            //Console.WriteLine("Please enter the package width: ");
          
-            Console.ReadLine();
+            //Console.ReadLine();
 
-            Console.WriteLine("Please enter the package height:");
-            int height;
-            Console.ReadLine();
+            //Console.WriteLine("Please enter the package height:");
+            //int height = Convert.ToInt32(Console.ReadLine());
+            //Console.ReadLine();
 
-            Console.WriteLine("Please enter the package length:");
-            int width;
-            int result = length + height + width;
-            Console.WriteLine("Your estimated total for shipping this package is: " + result);
+            //Console.WriteLine("Please enter the package length:");
+            //int width;
+            //if(packageWeight > 50)
+            //int result = length + height + width;
+            //Console.WriteLine("Your estimated total for shipping this package is: " + result);
+
 
             
         }
