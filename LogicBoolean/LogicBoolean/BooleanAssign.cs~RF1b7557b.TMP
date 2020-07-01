@@ -40,12 +40,10 @@ namespace LogicBoolean
             Console.WriteLine("How many speeding tickets do you have?");
             Console.ReadLine();
             int DUI;
-            int speedingTickets;
 
             Console.WriteLine("Have you ever had a DUI?");
             DUI = Convert.ToInt32(Console.ReadLine());
-            int speedingTickects = 0;
-            if (DUI == false && age < 15 && speedingTickects < 3)
+            if (DUI < 0)
             {
                 Console.WriteLine("You Qualified. \n");
             }
