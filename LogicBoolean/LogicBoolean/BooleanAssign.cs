@@ -11,6 +11,7 @@ namespace LogicBoolean
         static void Main(string[] args)
         {
             int age;
+           
             Console.WriteLine("What is your age?");
             
             age = Convert.ToInt32(Console.ReadLine());
@@ -23,39 +24,45 @@ namespace LogicBoolean
             else
                 Console.WriteLine("Congratulation! You are qualifies for a car insurance. Process!!\n\n");
             Console.ReadLine();
-            
-
-            Console.WriteLine("Have you ever had a DUI?");
-            Console.ReadLine();
-            bool condition = false;
-            if (condition == true)
-            {
-                Console.WriteLine("Process....\n");
-
-            }
-            else {
-                Console.WriteLine("Try again!!!\n");            
-            }
-            
-            Console.WriteLine("How many speeding tickets do you have?");
-            Console.ReadLine();
-            int DUI;
-            int speedingTickets = 0;
-
+          
             Console.WriteLine("Have you ever had a DUI? Please enter true or false");
-
-            DUI = Convert.ToInt32(Console.ReadLine());
-            int speedingTickects = Convert.ToInt32(Console.ReadLine());
+            bool DUI = false; 
             bool DUIs = Convert.ToBoolean(Console.ReadLine());
-            if (DUIs = false && age < 15 && speedingTickects < 3)
+            if (DUI = false)
+            {
+                Console.WriteLine("Proceed...");
+            }
+            else
+            {
+                Console.WriteLine("Try again later");
+            }
+            Console.ReadLine();
+
+            Console.WriteLine("How many speeding tickects do you have");
+            int speedingTickects = Convert.ToInt32(Console.ReadLine());
+            if (speedingTickects < 1)
+            {
+                Console.WriteLine("You can Proceed to see if you qualify");
+            }
+            else 
+            {
+                Console.WriteLine("Try again!!");
+            }
+            Console.ReadLine();
+
+            //DUI = Convert.ToInt32(Console.ReadLine());
+            
+         
+            if (DUIs = false && age < 15 && speedingTickects < 1)
             {
                 Console.WriteLine("You Qualified. \n");
             }
             else
                 Console.WriteLine("You can't proceed, try again!!!");
-            Console.WriteLine("You selected" + age + "as your age");
-
+            Console.WriteLine("You selected " + age + " as your age");
+            Console.ReadLine();
 
         }
+        
     }
 }
