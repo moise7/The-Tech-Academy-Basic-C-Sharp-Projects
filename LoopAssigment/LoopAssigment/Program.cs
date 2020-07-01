@@ -14,21 +14,23 @@ namespace LoopAssigment
             int i = 0;
             while (i < 10)
             {
-                Console.WriteLine("i= {0}",i);
+                Console.WriteLine("i= {0}", i);
                 i++;
                 Console.ReadLine();
-                
+
 
             }
-            
-            //Do a boolean comparison using a do while statement
+
+            Do a boolean comparison using a do while statement
             int m = 0;
             do
             {
                 Console.WriteLine("m ={0}", m);
-                i++;
+                m++;
             }
-            while (m > 20);
+            while (m <
+            20);
+            Console.ReadLine();
         }
     }
 }
