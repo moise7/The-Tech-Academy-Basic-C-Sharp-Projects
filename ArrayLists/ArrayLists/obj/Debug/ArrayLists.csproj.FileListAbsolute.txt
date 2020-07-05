@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\bin\Debug\ArrayLists.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\obj\Debug\ArrayLists.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\obj\Debug\ArrayLists.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csprojAssemblyReference.cache
