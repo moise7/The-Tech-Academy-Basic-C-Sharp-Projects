@@ -53,7 +53,7 @@ namespace LogicBoolean
             //DUI = Convert.ToInt32(Console.ReadLine());
             
          
-            if (DUIs == false && age > 15 && speedingTickects < 3)
+            if (DUIs = false && age < 15 && speedingTickects < 1)
             {
                 Console.WriteLine("You Qualified. \n");
             }
