@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace ClassesandObjectsAss
 {
-    class Program
+   public class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
+
         {
+            Class1 class1 = new Class1();
+            
+            Console.WriteLine("Enter two numbers:  ");
+            Console.ReadLine();
         }
+      
     }
 }
