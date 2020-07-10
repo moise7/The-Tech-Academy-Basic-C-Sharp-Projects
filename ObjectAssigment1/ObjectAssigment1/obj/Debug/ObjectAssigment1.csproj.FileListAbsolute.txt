@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\bin\Debug\ObjectAssigment1.exe.config
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\bin\Debug\ObjectAssigment1.exe
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\bin\Debug\ObjectAssigment1.pdb
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\obj\Debug\ObjectAssigment1.csprojAssemblyReference.cache
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\obj\Debug\ObjectAssigment1.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\obj\Debug\ObjectAssigment1.exe
+C:\Users\MB New Vision\source\repos\ObjectAssigment1\ObjectAssigment1\obj\Debug\ObjectAssigment1.pdb
