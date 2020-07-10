@@ -14,16 +14,18 @@ namespace ObjectAssigment
 
             return result;
         }
-        public int methodOne(int num3, int num4)
+        public double method(double num3, double num4)
         {
-            int result = num3 * num4;
+            double result = num3 * num4;
+            Convert.ToInt32(result);
             return result;
 
         }
-        public int last(int num5, int num6)
+        public float method(float num5, float num6)
         {
             num5 = 10;
-            int result = num5 + num6;
+            float result = num5 + num6;
+            Convert.ToInt32(result);
             return result;
         }
     }
