@@ -11,17 +11,15 @@ namespace ObjectAssigment1
        public static void Main(string[] args)
         {
             
-            Console.WriteLine("Enter the first  number ");
+            Console.WriteLine("Enter a number ");
             int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the second number ");
+           
+            Console.WriteLine("You don't have to enter the second number " );
             int num2 = Convert.ToInt32(Console.ReadLine());
-
             Console.ReadLine();
             Class1 class1 = new Class1();
-            int result;
-        
-          
-            if (num2 == 0)
+          int result;
+            if (num2 == 1)
             {
                 Class1.math(num1);
             }
@@ -29,8 +27,8 @@ namespace ObjectAssigment1
             {
                 Class1.math(num1, num2);
             }
-            //Convert.ToInt32();
-            result = Class1.math(num1, Convert.ToInt32(num2));
+            Convert.ToInt32(Console.ReadLine());
+            result = Class1.math(num1, num2);
 
             Console.WriteLine(result);
             Console.ReadLine();
