@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\bin\Debug\ObjectAssigment2.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\bin\Debug\ObjectAssigment2.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\bin\Debug\ObjectAssigment2.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\obj\Debug\ObjectAssigment2.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\obj\Debug\ObjectAssigment2.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\obj\Debug\ObjectAssigment2.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\ObjectAssigment2\ObjectAssigment2\obj\Debug\ObjectAssigment2.pdb
