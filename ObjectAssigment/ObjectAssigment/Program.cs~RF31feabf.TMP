@@ -19,31 +19,32 @@ namespace ObjectAssigment
             int num2 = Convert.ToInt32(Console.ReadLine());
             Class1 class1 = new Class1();
             int result;
-            result = class1.method(num1);
+            result = class1.method(num1, num2);
             Console.WriteLine(result);
             Console.ReadLine();
 
             //part 2
             Console.WriteLine("Enter a decimal number ");
-            decimal userInput = Convert.ToDecimal(Console.ReadLine());
+            int num3 = (int)Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Enter the second number ");
-            int num3 = Convert.ToInt32(Console.ReadLine());
-           
-            Class1 method1Object = new Class1();
-            int result1;
-            result1 = class1.method1(num2);
-            Console.WriteLine(result1);
+            int num4 = Convert.ToInt32(Console.ReadLine());
+            Class1 class1 = new Class1();
+            int result;
+            result = class1.method(num3, num4);
+            Console.WriteLine(result);
             Console.ReadLine();
 
             //part3
 
             Console.WriteLine("Enter a number");
-            
-            num3 = Convert.ToInt32(Console.ReadLine());
-            Class1 methodObject = new Class1();
-            int result2;
-            result2 = class1.method(num3);
-            Console.WriteLine(result2);
+
+            int num5 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter second number ")
+            int num6 = Convert.ToInt32(Console.ReadLine());
+            Class1 class1 = new Class1();
+            int result;
+            result = class1.method(num5, num6);
+            Console.WriteLine(result);
             Console.ReadLine();
 
 

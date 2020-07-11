@@ -8,25 +8,26 @@ namespace ObjectAssigment
 {
     public class Class1
     {
-        public int method(int num1, int num2)
+        public int method(int num1)
         {
-            int result = num1 - num2;
-
-            return result;
-        }
-        public double method(double num3, double num4)
-        {
-            double result = num3 * num4;
+            int result = num1;
             Convert.ToInt32(result);
             return result;
+        }
+        public int method1(int num2)
+        {
+            int result1 = num2;
+           // decimal userInput = Convert.ToDecimal(Console.ReadLine());
+            return result1;
 
         }
-        public float method(float num5, float num6)
+        public int method(string num3)
         {
-            num5 = 10;
-            float result = num5 + num6;
-            Convert.ToInt32(result);
-            return result;
+           int x = 2;
+             x = Convert.ToInt32(num3);
+
+            return x;
+
         }
     }
 }
