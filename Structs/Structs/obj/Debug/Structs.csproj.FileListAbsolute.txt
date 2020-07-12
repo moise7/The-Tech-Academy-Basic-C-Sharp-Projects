@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Structs\Structs\obj\Debug\Structs.pdb
