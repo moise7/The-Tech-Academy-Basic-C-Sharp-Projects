@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Net.Http.Headers;
 
 namespace FileIO
 {
@@ -8,9 +9,10 @@ namespace FileIO
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number");
-            string a = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\Moise\Logs\log.text",a);
-
+            Console.ReadLine();
+            string a = File.ReadAllText(@"C:\Users\Moise\Logs\log.text");
+           
+            Console.WriteLine("The number is {0}",a);
                     
         }
     }
