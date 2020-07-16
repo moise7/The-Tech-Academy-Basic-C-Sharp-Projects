@@ -11,8 +11,8 @@ namespace Structs
         static void Main(string[] args)
         {
             Number amount = new Number();
-            Int32 num = 100;
-            Console.WriteLine(num);
+            amount.amount = 100;
+            Console.WriteLine(amount.amount);
             Console.ReadLine();
         }
     }
