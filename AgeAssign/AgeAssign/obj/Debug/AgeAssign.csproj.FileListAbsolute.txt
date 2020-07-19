@@ -1,0 +1,7 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\bin\Debug\AgeAssign.exe.config
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\bin\Debug\AgeAssign.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\bin\Debug\AgeAssign.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\obj\Debug\AgeAssign.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\obj\Debug\AgeAssign.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\obj\Debug\AgeAssign.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\AgeAssign\AgeAssign\obj\Debug\AgeAssign.pdb
