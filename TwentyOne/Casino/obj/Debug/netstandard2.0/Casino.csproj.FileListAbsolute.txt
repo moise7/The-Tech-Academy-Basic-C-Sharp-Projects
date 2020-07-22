@@ -1,0 +1,4 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache

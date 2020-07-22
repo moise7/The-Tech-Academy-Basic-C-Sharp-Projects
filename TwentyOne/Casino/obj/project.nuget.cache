@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmaDSYCMNEuSpN4x96cQUF7RAdZnBIPfKKk1rRnXeSQGGqGuZmV/k5njmBrD9hIu8kHUsQwcSvzqqKzbj5aUGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\TwentyOne\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MB New Vision\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MB New Vision\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
