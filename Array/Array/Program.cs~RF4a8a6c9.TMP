@@ -15,19 +15,14 @@ namespace Array
 
             //Create a one-dimensional Array of integers
             int[] array = new int[5];
-            array[0] = 4;
-            array[1] = 6;
-            array[2] = 14;
-            array[3] = 16;
-            array[4] = 26;
-            Console.WriteLine("select a number from 0 to 4");
+            Console.WriteLine("select a number from 1 to 5");
             int num = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your number is:" + num);
 
             // index that doesn’t exist message
             try
             {
-                Console.WriteLine(array[num]);
+                Console.WriteLine([5]);
             }
             catch(Exception e)
             {
