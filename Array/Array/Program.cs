@@ -48,8 +48,10 @@ namespace Array
             carList.Add("BMW");
             carList.Add("Cameri");
             Console.WriteLine("select a cars name from List");
-            string  = Console.ReadLine();
-            Console.WriteLine("You selected:" + carList);
+            string result = string.Join(",", carList);
+            Console.WriteLine($"RESULT: {result}");
+            string List = Console.ReadLine();
+            Console.WriteLine("You selected:" + result);
 
             // index that doesn’t exist message
             try
