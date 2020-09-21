@@ -10,7 +10,7 @@ namespace Array
             //Create a one-dimensional Array of strings
             string[] cars = { "BMW", "Ford", "Mazda" };
             Console.WriteLine("Select your car BMW, FORD or Mazda");
-            string car = Console.ReadLine();
+            int car = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You selected:" + car);
             // index that doesn’t exist message
             try
@@ -50,7 +50,7 @@ namespace Array
             Console.WriteLine("select a cars name from List");
             string result = string.Join(",", carList);
             Console.WriteLine($"RESULT: {result}");
-            string List = Console.ReadLine();
+            int List = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You selected:" + result);
 
             // index that doesn’t exist message
