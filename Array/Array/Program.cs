@@ -15,7 +15,7 @@ namespace Array
             // index that doesn’t exist message
             try
             {
-                Console.WriteLine(cars);
+                Console.WriteLine(cars[car]);
             }
             catch (Exception e)
             {
@@ -51,12 +51,12 @@ namespace Array
             string result = string.Join(",", carList);
             Console.WriteLine($"RESULT: {result}");
             int List = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You selected:" + result);
+            Console.WriteLine("You selected:" + List);
 
             // index that doesn’t exist message
             try
             {
-                Console.WriteLine(carList);
+                Console.WriteLine(carList[List]);
             }
             catch (Exception e)
             {
