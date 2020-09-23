@@ -1,0 +1,13 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.deps.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.runtimeconfig.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.runtimeconfig.dev.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\bin\Debug\netcoreapp3.1\Assignment1to7.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assignment1to7\Assignment1to7\obj\Debug\netcoreapp3.1\Assignment1to7.genruntimeconfig.cache

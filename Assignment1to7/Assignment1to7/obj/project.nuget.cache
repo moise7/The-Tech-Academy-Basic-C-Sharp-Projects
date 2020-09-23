@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+x1ZQ7qzrudq+kBdzfclKGFloQyhj4YkZOBcbC9yTVCzrX64LT02TyIG8pZ5lmxFPigdRZu38uuT+qC4Q0C/0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Assignment1to7\\Assignment1to7\\Assignment1to7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MB New Vision\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
