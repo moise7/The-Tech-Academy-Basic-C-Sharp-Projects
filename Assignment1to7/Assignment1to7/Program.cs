@@ -14,7 +14,7 @@ namespace Assignment1to7
             Console.ReadLine();
             foreach (var item in movies)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item+movies);
                 Console.ReadLine();
             }
             //creating an infinite loop
@@ -29,12 +29,23 @@ namespace Assignment1to7
                 Console.WriteLine(movies[j]);
             }
             //A loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator
-            for (int m = 0; m <= movies.Length; m++)
+            for (int m = 0; m <= movies.Length-1; m++)
             {
                 Console.WriteLine(movies[m]);
             }
 
-
+            // A list of strings where each item in the list is unique
+            List<string> names = new List<string>() { "Moise", "Erik", "Adam", "Daniel"};
+            Console.WriteLine("Type a text here..");
+            Console.ReadLine();
+            foreach(string name in names)
+            {
+                if(name == "Moise")
+                {
+                    Console.WriteLine(name);
+                }
+            }
+           
 
         }
     }
