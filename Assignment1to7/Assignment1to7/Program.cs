@@ -33,20 +33,25 @@ namespace Assignment1to7
             {
                 Console.WriteLine(movies[m]);
             }
-
-            // A list of strings where each item in the list is unique
-            List<string> names = new List<string>() { "Moise", "Erik", "Adam", "Daniel"};
-            Console.WriteLine("Type a text here..");
-            Console.ReadLine();
-            foreach(string name in names)
+            try
             {
-                if(name == "Moise")
+                // A list of strings where each item in the list is unique
+                List<string> names = new List<string>() { "Moise", "Erik", "Adam", "Daniel" };
+                Console.WriteLine("Type a text here..");
+                Console.ReadLine();
+                foreach (string name in names)
                 {
-                    Console.WriteLine(name);
+                    if (name == "Moise")
+                    {
+                        Console.WriteLine(name);
+                    }
                 }
             }
-           
-
+            //Add code to the loop that tells a user if they put in text that isn’t in the list
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
