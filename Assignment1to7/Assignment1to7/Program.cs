@@ -83,9 +83,9 @@ namespace Assignment1to7
             //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list
             foreach (string state in states)
             {
-                for (int i = 0; i < states.IndexOf(state); i++)
+                for (int a = 0; a < states.IndexOf(state); a++)
                 {
-                    if (state == states[i])
+                    if (state == states[a])
                     {
                         Console.WriteLine(state + " has appeared before in this list.");
                     }
