@@ -11,18 +11,22 @@ namespace ExceptionAssigment
         static void Main(string[] args)
         {
             try
-            {
+            { 
                 int[] numArray = { 23, 56, 78, 67, 45, 88 };
-                Console.WriteLine("Pick a number: ");
+                Console.WriteLine("Enter a number: ");
                 int num = Convert.ToInt32(Console.ReadLine());
-                for (int i = 0; i < numArray.Count; i++)
-                {
-                    if (numArray[i] == num)
-                        Console.WriteLine(numArray[i]);
-                    Console.ReadLine();
-                }
+                int result;
+                foreach(int item in numArray)
+                    {
+                 Console.WriteLine(result = item / num);
+                Console.ReadLine();
+                    }
             }
-
+            catch(FormatException ex)
+            {
+                Console.WriteLine("Please enter a different number");
+                Console.ReadLine();
+            }
     }
     }
 }
