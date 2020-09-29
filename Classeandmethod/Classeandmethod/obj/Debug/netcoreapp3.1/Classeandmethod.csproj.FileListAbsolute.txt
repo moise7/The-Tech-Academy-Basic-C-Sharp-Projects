@@ -1,0 +1,4 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Classeandmethod\Classeandmethod\obj\Debug\netcoreapp3.1\Classeandmethod.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Classeandmethod\Classeandmethod\obj\Debug\netcoreapp3.1\Classeandmethod.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Classeandmethod\Classeandmethod\obj\Debug\netcoreapp3.1\Classeandmethod.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Classeandmethod\Classeandmethod\obj\Debug\netcoreapp3.1\Classeandmethod.csproj.CoreCompileInputs.cache
