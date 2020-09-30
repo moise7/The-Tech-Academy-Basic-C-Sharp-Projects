@@ -16,10 +16,10 @@ namespace ExceptionAssigment
                 Console.WriteLine("Enter a number: ");
                 int num = Convert.ToInt32(Console.ReadLine());
                 int result;
-                if (num < 1)
+                if (num <= -1)
                 {
                     throw new FormatException();
-                    
+                    throw new Exception();
                 }
               
                foreach (int item in numArray)
@@ -35,13 +35,14 @@ namespace ExceptionAssigment
                 {
                     Console.WriteLine("The number cannot be less than 1");
                     Console.ReadLine();
-
-                    Console.WriteLine("The number cannot be negative");
-                    Console.ReadLine();
-
                 }
                
 
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("The number cannot be negative");
+                Console.ReadLine();
             }
         }
     }
