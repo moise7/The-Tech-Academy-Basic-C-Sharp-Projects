@@ -8,7 +8,7 @@ namespace Inheritance
 {
     public class Employee : Person
     {
-       
+        Person person = new Person();
         public int Id { get; set; }
     }
 }
