@@ -65,7 +65,7 @@ namespace Assignment1to7
             //Create a list of strings that has at least two identical strings in the list
             List<string> nicknames = new List<string>() { "Nick", "MB", "momo", "MB", "momo", "lukage", "Louis" };
             Console.WriteLine("Type a nicknames");
-            string userNicks = Console.ReadLine();
+            var userNicks = Console.ReadLine();
             foreach (string nickname in nicknames)
             {
                 if (nickname == userNicks)
