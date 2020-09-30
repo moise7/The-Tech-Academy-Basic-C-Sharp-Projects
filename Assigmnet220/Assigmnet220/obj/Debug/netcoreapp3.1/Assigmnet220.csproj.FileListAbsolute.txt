@@ -1,0 +1,13 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.deps.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.runtimeconfig.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.runtimeconfig.dev.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\bin\Debug\netcoreapp3.1\Assigmnet220.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Assigmnet220\Assigmnet220\obj\Debug\netcoreapp3.1\Assigmnet220.genruntimeconfig.cache
