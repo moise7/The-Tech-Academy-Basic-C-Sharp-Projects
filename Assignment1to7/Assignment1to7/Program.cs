@@ -44,12 +44,13 @@ namespace Assignment1to7
                 List<string> names = new List<string>() { "Moise", "Erik", "Adam", "Daniel" };
                 Console.WriteLine("Type a name here..");
                 var a = Console.ReadLine();
-                Console.WriteLine("you enter");
                 foreach (string name in names)
                 {
-                    if (name == a)
+                    if (names.Contains(a))
                     {
-                        Console.WriteLine(name);break;
+                        Console.WriteLine(a+ " is here");
+                        Console.ReadLine();
+                        break;
                     }
                     else
                     {
@@ -68,10 +69,11 @@ namespace Assignment1to7
             string userNicks = Console.ReadLine();
             foreach (string nickname in nicknames)
             {
-                if (nickname == userNicks)
+                if (nicknames.Contains(userNicks))
                 {
-                    Console.WriteLine(nickname);break;
-                   // Console.ReadLine();
+                    Console.WriteLine("Your nickname is : "+ userNicks);
+                    Console.ReadLine();
+                    break;
                 }
                 else 
                 {
@@ -80,19 +82,19 @@ namespace Assignment1to7
             }
             //Create a list of strings that has at least two identical strings in the list
             List<string> states = new List<string>() { "Indiana", "Chicago", "DC", "New York", "DC", "Atlanta" };
-            
+            List<string> myList = new List<string>();
             //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list
             foreach (string state in states)
             {
-                for (int a = 0; a < states.IndexOf(state); a++)
+                for (int a = 0; a < myList.Count; a++)
                 {
-                    if (state == states[a])
+                    if (state == myList[a])
                     {
                         Console.WriteLine(state + " has appeared before in this list.");
-                        Console.WriteLine(states == null);
                         Console.ReadLine();
                     }
                 }
+                myList.Add(state);
             }
         }
 
