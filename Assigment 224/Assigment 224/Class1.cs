@@ -4,15 +4,15 @@ using System.Text;
 
 namespace Assigment_224
 {
-    public static class Class1
+    public  class Class1
     {
-        public void methodInt(int a = 3, int b = 6)
+        public void methodInt(int a, int b)
         {
             int sum = a + b / 2;
-            return sum;
+            Console.WriteLine(sum);
 
         }
-        public void Value(out int a, out int b)
+        public static int Value(out int a, out int b)
         {
 
         }

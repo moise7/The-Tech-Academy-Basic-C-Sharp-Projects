@@ -9,7 +9,7 @@ namespace Assigment_224
             Class1 Objectmethod = new Class1();
             Console.WriteLine("Enter a number");
             int num1 = Convert.ToInt32(Console.ReadLine());
-            int sum = Objectmethod.method(num1);
+            int sum = Objectmethod.methodInt(num1);
             
         }
     }
