@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Assigment_224
 {
-    public static class Class1
+    public  class Class1
     {
-        public static void methodInt(int a)
+        public  void methodInt(int a)
         {
             int sum = a / 2;
             Console.WriteLine(sum);
