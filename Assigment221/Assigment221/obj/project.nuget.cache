@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LsaoVpFEzE5843t7Sg+eXESPNWFodk5vQjTUJVc4J51ZRcOObxVd5oYNJ22lWbI6ca/4UFCyQ+BcaVQ9OB9yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Assigment221\\Assigment221\\Assigment221.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MB New Vision\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
