@@ -10,7 +10,9 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
+           
             Employee employee = new Employee();
+            employee.Quit();
             employee.firstName = "Luke";
             employee.lastName = "mat";
             Console.WriteLine(employee);
