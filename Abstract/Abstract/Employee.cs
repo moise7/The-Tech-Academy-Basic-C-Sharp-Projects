@@ -11,7 +11,7 @@ namespace Abstract
 
         public override void SayName()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Your name: ");
         }
         public void Quit()
         {

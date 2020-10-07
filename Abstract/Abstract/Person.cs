@@ -10,11 +10,10 @@ namespace Abstract
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
-    }
-    public static void SayName()
-    {
 
-    }
-    
-    
+    public static void SayName()
+        {
+
+        }
+    }  
 }

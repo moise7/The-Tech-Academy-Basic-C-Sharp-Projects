@@ -9,6 +9,6 @@ namespace Abstract
     interface IQuittable
     {
         void Quit();
-        Quit quit = new Quit();
+       
     }
 }
