@@ -1,0 +1,2 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
