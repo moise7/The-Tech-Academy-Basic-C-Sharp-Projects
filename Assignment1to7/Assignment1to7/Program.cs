@@ -67,11 +67,12 @@ namespace Assignment1to7
             List<string> nicknames = new List<string>() { "Nick", "MB", "momo", "MB", "momo", "lukage", "Louis" };
             Console.WriteLine("Type a nicknames");
             string userNicks = Console.ReadLine();
+            int index = 0;
             foreach (string nickname in nicknames)
             {
-                if (nicknames.Contains(userNicks))
+                if (nickname == userNicks)
                 {
-                    Console.WriteLine("Your nickname is : "+ userNicks);
+                    Console.WriteLine("Your nickname is : "+ userNicks+ "at index"+index);
                     Console.ReadLine();
                     break;
                 }
@@ -79,6 +80,7 @@ namespace Assignment1to7
                 {
                     Console.WriteLine("Try again");
                 }
+                index++;
             }
             //Create a list of strings that has at least two identical strings in the list
             List<string> states = new List<string>() { "Indiana", "Chicago", "DC", "New York", "DC", "Atlanta" };
