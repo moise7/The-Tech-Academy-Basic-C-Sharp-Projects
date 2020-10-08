@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    interface IQuittable
+    interface IQuittable 
     {
-        void Quit();
-       
+        public void Quit()
+        {
+            Console.WriteLine("Your name is:");
+        }
     }
 }

@@ -9,14 +9,11 @@ namespace Abstract
     public class Employee : Person, IQuittable
     {
 
-        public override void SayName()
+        public  void SayName()
         {
             Console.WriteLine("Your name: ");
         }
-        public void Quit()
-        {
-            throw new NotImplementedException();
-        }
+       
 
     }
 }
