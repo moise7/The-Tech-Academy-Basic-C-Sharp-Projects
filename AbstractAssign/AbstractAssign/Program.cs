@@ -6,12 +6,15 @@ namespace AbstractAssign
     {
         static void Main(string[] args)
         {
-            IQuittable IQuitemployee = new Employee();
-            IQuitemployee.Quit();
+            Employee employee = new Employee();
+            Console.ReadLine();
+            employee.SayName();
+            employee.firstName = "sample";
+            employee.lastName = "Student";
             Console.ReadLine();
         }
     
 
-        }
     }
-}
+ }
+

@@ -1,0 +1,4 @@
+C:\Users\MB New Vision\source\repos\AbstractAssign\AbstractAssign\obj\Debug\netcoreapp3.1\AbstractAssign.csprojAssemblyReference.cache
+C:\Users\MB New Vision\source\repos\AbstractAssign\AbstractAssign\obj\Debug\netcoreapp3.1\AbstractAssign.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\source\repos\AbstractAssign\AbstractAssign\obj\Debug\netcoreapp3.1\AbstractAssign.AssemblyInfo.cs
+C:\Users\MB New Vision\source\repos\AbstractAssign\AbstractAssign\obj\Debug\netcoreapp3.1\AbstractAssign.csproj.CoreCompileInputs.cache
