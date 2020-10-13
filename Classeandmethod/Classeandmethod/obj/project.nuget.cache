@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JOR4g3dDqlDTRhoR2TfjXj3uwSKrZQUkgKXBExGqwcjeqL6NA/cYWzsI6s2zCZiWQV/6+uExbETxAbkt49uTQg==",
+  "dgSpecHash": "Z/AgdDQzXAMeGHuWmfFbcaP2YEiloDgpoyaeIZnADi7VVj1YW5Lt7ANPuHRXzgu20ngM+u+niT1Jx6WIMqQtJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
+  "projectFilePath": "C:\\Users\\MB New Vision\\Downloads\\The-Tech-Academy-Basic-C-Sharp-Projects-master\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MB New Vision\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

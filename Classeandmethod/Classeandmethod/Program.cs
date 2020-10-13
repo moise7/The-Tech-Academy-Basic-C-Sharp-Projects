@@ -6,10 +6,13 @@ namespace Classeandmethod
     {
       public static void Main(string[] args)
         {
-            Class class = new Class();
+            Class ClassObject = new Class();
             int result;
-            result = class.methodOne(a+b);
+            result = ClassObject.MethodOne(3, 5);
             Console.WriteLine(result);
+            //instantiating a class and call the second method, passing in a decimal. Display the result to the screen.
+
+
         }
     }
 }
