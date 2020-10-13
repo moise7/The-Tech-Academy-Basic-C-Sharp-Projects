@@ -13,6 +13,7 @@ namespace Inheritance
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
+            employee.SayName();
             Console.ReadLine();
         }
     }
