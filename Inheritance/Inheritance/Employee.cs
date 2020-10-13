@@ -10,10 +10,11 @@ namespace Inheritance
     {
         Person person = new Person();
         public int Id { get; set; }
-        
+
+        public void SayName()
+        {
+            base.SayName();
+        }
     }
-    public void SayName()
-    {
-        base.SayName();
-    }
+   
 }
