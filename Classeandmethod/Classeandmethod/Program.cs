@@ -8,10 +8,12 @@ namespace Classeandmethod
         {
             Class ClassObject = new Class();
             int result;
-            result = ClassObject.MethodOne(3, 5);
+            result = Class.MethodOne(3, 5);
             Console.WriteLine(result);
             //instantiating a class and call the second method, passing in a decimal. Display the result to the screen.
-
+            Double
+            //instantiate the class and call the third method, passing in a string that equates to an integer. Display the result to the screen
+            result = Class.MethodOne("a", "b");
 
         }
     }

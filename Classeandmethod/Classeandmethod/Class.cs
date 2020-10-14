@@ -20,7 +20,11 @@ namespace Classeandmethod
         }
         public static string MethodOne(string a, string b)
         {
-            return a / b;
+            int num1 = Convert.ToInt32(a);
+            int num2 = Convert.ToInt32(b);
+            int num3 = num1 / num2;
+            string result = Convert.ToString(num3);
+            return result;
         }
     }
 }

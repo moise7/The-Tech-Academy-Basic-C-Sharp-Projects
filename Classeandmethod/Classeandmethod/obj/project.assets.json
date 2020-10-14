@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MB New Vision\\Downloads\\The-Tech-Academy-Basic-C-Sharp-Projects-master\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
+      "projectUniqueName": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
       "projectName": "Classeandmethod",
-      "projectPath": "C:\\Users\\MB New Vision\\Downloads\\The-Tech-Academy-Basic-C-Sharp-Projects-master\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
+      "projectPath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Classeandmethod\\Classeandmethod\\Classeandmethod.csproj",
       "packagesPath": "C:\\Users\\MB New Vision\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MB New Vision\\Downloads\\The-Tech-Academy-Basic-C-Sharp-Projects-master\\Classeandmethod\\Classeandmethod\\obj\\",
+      "outputPath": "C:\\Users\\MB New Vision\\Desktop\\The Tech Academy\\Framework\\Classeandmethod\\Classeandmethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MB New Vision\\AppData\\Roaming\\NuGet\\NuGet.Config",
