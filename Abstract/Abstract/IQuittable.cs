@@ -8,9 +8,6 @@ namespace Abstract
 {
     interface IQuittable 
     {
-        public void Quit()
-        {
-            Console.WriteLine("Your name is:");
-        }
+        void Quit();  
     }
 }

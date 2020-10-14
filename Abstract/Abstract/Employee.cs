@@ -13,7 +13,10 @@ namespace Abstract
         {
             Console.WriteLine("Your name: ");
         }
-       
+    public void Quit()
+        {
+            Console.WriteLine("Your name is:");
+        }
 
     }
 }

@@ -15,5 +15,9 @@ namespace Abstract
         {
 
         }
+    public void Quit()
+        {
+            Console.WriteLine("This person has quit.");
+        }
     }  
 }
