@@ -8,6 +8,7 @@ namespace Abstract
 {
     public class Employee : Person, IQuittable
     {
+        public int Id { get; internal set; }
 
         public  void SayName()
         {
@@ -16,6 +17,15 @@ namespace Abstract
     public void Quit()
         {
             Console.WriteLine("Your name is:");
+        }
+        //Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id property.
+        public static bool operator !=(Employee a, Employee b)
+        {
+            return a.Id != b.Id;
+        }
+        public static bool operator ==(Employee a, Employee b)
+        {
+            return a.Id == b.Id;
         }
 
     }

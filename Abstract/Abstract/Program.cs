@@ -20,5 +20,6 @@ namespace Abstract
             employee.LastName = "Student";
             Console.ReadLine();
         }
+        
     }
 }
