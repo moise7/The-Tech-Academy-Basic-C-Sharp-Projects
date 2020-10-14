@@ -11,10 +11,13 @@ namespace Abstract
         static void Main(string[] args)
         {
 
-           IQuittable IQuitemployee = new Employee();
-            IQuitemployee.Quit();
+           //IQuittable IQuitemployee = new Employee();
+            Employee employee = new Employee();
+            //IQuitemployee.Quit();
             Console.ReadLine();
             employee.SayName();
+            employee.firstName = "sample";
+            employee.lastName = "Student";
             Console.ReadLine();
         }
     }
