@@ -11,10 +11,11 @@ namespace Classeandmethod
             result = Class.MethodOne(3, 5);
             Console.WriteLine(result);
             //instantiating a class and call the second method, passing in a decimal. Display the result to the screen.
-            Double
+            double result2 = Class.MethodOne(2.4, 7.9);
+            Console.WriteLine(result2);
             //instantiate the class and call the third method, passing in a string that equates to an integer. Display the result to the screen
-            result = Class.MethodOne("a", "b");
-
+            string result3 = Class.MethodOne("7", "9");
+            Console.WriteLine(result3);
         }
     }
 }
