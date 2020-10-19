@@ -10,7 +10,7 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
-            
+
             //IQuittable IQuitemployee = new Employee();
             //Employee employee = new Employee();
             //employee.Quit();
@@ -58,16 +58,46 @@ namespace Abstract
                 Console.ReadLine();
                 Console.WriteLine(ex.Message);
             }
+
+
         }
         public enum DaysOfTheWeek
         {
             Monday = 1,
             Tuesday = 2,
-            Wednesday =3,
+            Wednesday = 3,
             Thursday = 4,
             Friday = 5,
             Saturday = 6,
             Sunday = 7
         }
+        struct employee
+        {
+            public int empid;
+            public string firstname;
+            public string lastname;
+        }
+
+        List<employee> employeeList = new List<employee>()
+        {
+            new employee(){empid = 1, firstname="Bill", lastname = "Jackson"},
+            new employee(){empid = 2, firstname="Moise", lastname = "Jess"},
+            new employee(){empid = 3, firstname="Hope", lastname = "Abdul"},
+            new employee(){empid = 4, firstname="Kristin", lastname = "Steva"},
+            new employee(){empid = 5, firstname="Jenny", lastname = "Ram"},
+            new employee(){empid = 6, firstname="Bork", lastname = "Hibail"},
+            new employee(){empid = 7, firstname="Billy", lastname = "Thoma"},
+            new employee(){empid = 8, firstname="Joe", lastname = "Wright"},
+            new employee(){empid = 9, firstname="Bob", lastname = "Jack"},
+            new employee(){empid = 10, firstname="Joe", lastname = "Wri"},
+
+            
+ };
+        foreach(Employee emp in employeeList )
+            {
+            }
+
+
+
     }
 }
