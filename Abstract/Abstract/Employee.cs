@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    public class Employee<T> : Person, IQuittable
-    {
+    //public class Employee<T> : Person, IQuittable
+    //{
     //    public int Id { get; internal set; }
 
     //    public  void SayName()
@@ -27,7 +27,13 @@ namespace Abstract
     //    {
     //        return a.Id == b.Id;
     //    }
-    public List<T> Things { get; set; }
+    //public List<T> Things { get; set; }
+    //}
+    struct Employee
+    {
+        public int empid;
+        public string firstname;
+        public string lastname;
     }
 }
 
