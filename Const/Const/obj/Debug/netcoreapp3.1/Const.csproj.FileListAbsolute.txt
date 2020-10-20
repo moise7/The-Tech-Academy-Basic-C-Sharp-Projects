@@ -1,0 +1,13 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.deps.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.runtimeconfig.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.runtimeconfig.dev.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\bin\Debug\netcoreapp3.1\Const.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\Const\Const\obj\Debug\netcoreapp3.1\Const.genruntimeconfig.cache
