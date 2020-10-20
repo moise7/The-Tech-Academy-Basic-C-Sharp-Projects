@@ -31,23 +31,25 @@ namespace Abstract
             {
                 if(emp.firstname == "joe")
                 {
-                    Console.WriteLine("The employee name:  ");
+                    Console.WriteLine(emp.firstname);
                     Console.ReadLine();
                 }
                
 
             }
             // Perform the same action again, but this time with a lambda expression.
-            List<Employee> ListName =  employeeList.FindAll(x => (x.firstname == "Joe")).ToList())
+            List<Employee> ListName = employeeList.FindAll(x => (x.firstname == "Joe")).ToList();
             {
                 Console.WriteLine("The employee name:  " + employeeList);
+                Console.ReadLine();
             }
 
             //Using a lambda expression, make a list of all employees with an Id number greater than 5.
 
-            List<Employee> ListId = employeeList.FindAll(x =>(x.empid > 5)).ToList())
+            List<Employee> ListId = employeeList.FindAll(x => (x.empid > 5)).ToList();
                 {
                 Console.WriteLine("Name of all employee");
+                Console.ReadLine();
             }
         }
     }
