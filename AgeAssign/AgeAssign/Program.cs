@@ -31,7 +31,7 @@ namespace AgeAssign
             }
             catch (Exception)
             {
-                Console.WriteLine("An error occurred. Please contact out support center");
+                Console.WriteLine("An error occurred. Please contact out support center we are 24/7");
          
             }
             Console.ReadLine();
