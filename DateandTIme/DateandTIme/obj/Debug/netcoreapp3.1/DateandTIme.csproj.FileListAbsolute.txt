@@ -1,0 +1,13 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.deps.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.runtimeconfig.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.runtimeconfig.dev.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\bin\Debug\netcoreapp3.1\DateandTIme.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\DateandTIme\DateandTIme\obj\Debug\netcoreapp3.1\DateandTIme.genruntimeconfig.cache
