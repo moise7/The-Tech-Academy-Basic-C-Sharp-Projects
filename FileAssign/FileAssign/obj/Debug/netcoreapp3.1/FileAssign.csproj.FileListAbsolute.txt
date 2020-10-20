@@ -1,0 +1,13 @@
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.csprojAssemblyReference.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.AssemblyInfoInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.AssemblyInfo.cs
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.csproj.CoreCompileInputs.cache
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.exe
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.deps.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.runtimeconfig.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.runtimeconfig.dev.json
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\bin\Debug\netcoreapp3.1\FileAssign.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.dll
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.pdb
+C:\Users\MB New Vision\Desktop\The Tech Academy\Framework\FileAssign\FileAssign\obj\Debug\netcoreapp3.1\FileAssign.genruntimeconfig.cache
